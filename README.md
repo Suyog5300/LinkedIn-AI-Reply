@@ -9,13 +9,13 @@ A browser extension that adds an AI-powered assistant to LinkedIn chat boxes.
 
 ## Demo
 
-![Demo](https://github.com/user-attachments/assets/faf3dd91-62c2-4454-895a-3723f62a9634)
+https://github.com/user-attachments/assets/7cc45fc8-cc1e-46f0-af99-cd2e79b43ce5
 
 ## Installation
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/linkedin-ai-assistant.git
+   git clone https://github.com/Suyog5300/linkedin-ai-assistant.git
    cd linkedin-ai-assistant
    ```
 2. Install dependencies:

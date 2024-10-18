@@ -27,8 +27,6 @@ export default defineContentScript({
           chatBox.addEventListener('focus', () => {
             buttonContainer.style.display = 'block';
           });
-
-          // Remove the blur event listener
         }
       });
     };

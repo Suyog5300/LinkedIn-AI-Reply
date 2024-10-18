@@ -3,7 +3,6 @@ import reactLogo from '@/assets/react.svg';
 import wxtLogo from '/wxt.svg';
 import './App.css';
 import './styles/output.css';
-// import './styles/index.css';
 
 function App() {
   const [count, setCount] = useState(0);

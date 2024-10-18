@@ -1,4 +1,4 @@
-// AIAssistantButton.tsx
+
 import React, { useState, useEffect, useRef } from "react";
 import AiButton from "../../../assets/images/AI-icon.svg";
 import AIAssistantModal from "./AIAssistantModal";
@@ -16,7 +16,6 @@ const AIAssistantButton: React.FC = () => {
     
     const handleFocus = () => setIsVisible(true);
     const handleBlur = (e: FocusEvent) => {
-      // Check if the new focus target is not the button or the modal
       if (!buttonRef.current?.contains(e.relatedTarget as Node) && !isModalOpen) {
         setIsVisible(false);
       }

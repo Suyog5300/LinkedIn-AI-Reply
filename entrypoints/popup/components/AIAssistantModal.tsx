@@ -1,4 +1,4 @@
-// AIAssistantModal.tsx
+
 import React, { useRef, useEffect, useState } from "react";
 import GenerateButtonIcon from "../../../assets/images/Vector (1).png";
 import RegenerateIcon from "../../../assets/images/RegenerateIcon.svg";
@@ -39,8 +39,6 @@ const AIAssistantModal: React.FC<AIAssistantModalProps> = ({
 
   const handleGenerateButton = () => {
     setIsGenerateModalOpen(true);
-    // Here you would typically call an API to generate the text
-    // For now, we'll just use the dummy text
     setGeneratedText(
       "Thank you for the opportunity! If you have any more questions or if there's anything else I can help you with, feel free to ask."
     );
@@ -52,7 +50,6 @@ const AIAssistantModal: React.FC<AIAssistantModalProps> = ({
     ) as HTMLElement;
     if (chatbox) {
       chatbox.innerHTML = `<p>${generatedText}</p>`;
-      // Trigger an input event to ensure LinkedIn recognizes the change
       const event = new Event("input", { bubbles: true });
       chatbox.dispatchEvent(event);
     }

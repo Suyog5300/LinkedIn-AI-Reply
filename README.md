@@ -5,12 +5,11 @@ A browser extension that adds an AI-powered assistant to LinkedIn chat boxes.
 ## Features
 
 - Adds an AI assistant button to LinkedIn message compose boxes
-- Generates helpful responses based on user prompts
 - Seamlessly integrates with LinkedIn's existing chat interface
 
 ## Demo
 
-https://drive.google.com/file/d/1DJ0jpA28WWw39RS5OMny0rpntJ6NsE1h/view?usp=sharing
+https://github.com/Suyog5300/LinkedIn-AI-Reply/assets/(13) Messaging _ LinkedIn - Google Chrome 2024-10-18 19-51-46.mp4
 
 [Add a brief description of what the video demonstrates]
 

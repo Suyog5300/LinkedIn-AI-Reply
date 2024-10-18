@@ -9,7 +9,7 @@ A browser extension that adds an AI-powered assistant to LinkedIn chat boxes.
 
 ## Demo
 
-https://github.com/Suyog5300/LinkedIn-AI-Reply/assets/(13) Messaging _ LinkedIn - Google Chrome 2024-10-18 19-51-46.mp4
+https://github.com/Suyog5300/LinkedIn-AI-Reply/blob/main/assets/demo.mp4
 
 [Add a brief description of what the video demonstrates]
 

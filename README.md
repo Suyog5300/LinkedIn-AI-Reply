@@ -11,7 +11,8 @@ A browser extension that adds an AI-powered assistant to LinkedIn chat boxes.
 
 https://github.com/Suyog5300/LinkedIn-AI-Reply/blob/main/assets/demo.mp4
 
-[Add a brief description of what the video demonstrates]
+![Demo](https://github.com/Suyog5300/LinkedIn-AI-Reply/raw/main/assets/demo.mp4)
+
 
 ## Installation
 
